@@ -1,0 +1,7 @@
+
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8ñæœ‡†/
+>
+java:S1643"Use a StringBuilder instead.(ã¼¿ƒûÿÿÿÿ8è’¤‡†/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(•õ¯…ÿÿÿÿÿ8™üþ††/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç‚ï¦ûÿÿÿÿ

@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8í©î‡/
+X	java:S125#"<This block of commented-out lines of code should be removed.(ÉäŠ™8ò‚÷‡/
+V
+java:S1994"9Move the update of "size" into this loop's update clause.(é•Ä•8ÏÀù‡/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œşäì
+X	java:S125'"<This block of commented-out lines of code should be removed.( ìº 8¡œõ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8í©î‡/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8í©î‡/
